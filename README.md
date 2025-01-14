@@ -1,4 +1,4 @@
-### Olá, eu sou o Rafael. Amante da tecnologia e sempre procuro evoluir como pessoa e profissional.
+### Olá, eu sou o Rafael. Amante da tecnologia e sempre procurando evoluir como pessoa e profissional.
 #### FullStack Developer
 
 <div>
