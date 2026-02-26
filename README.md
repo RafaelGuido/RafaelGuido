@@ -1,14 +1,6 @@
 ### Olá, eu sou o Rafael. Amante de tecnologia e sempre em busca de evolução, tanto pessoal quanto profissional.
 #### FullStack Developer
 
-<div>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelGuido&show_icons=true&theme=merko"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuido&layout=compact"/>
-
-</div>
-
 ----
 
 ## Contato
