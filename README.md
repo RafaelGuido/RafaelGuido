@@ -1,9 +1,9 @@
-### Olá, eu sou o Rafael. Amante de tecnologia e sempre em busca de evolução, tanto pessoal quanto profissional.
-#### FullStack Developer
+### Hi, I'm Rafael. A technology enthusiast, always looking to grow both personally and professionally.
+#### Full Stack Developer
 
 ----
 
-## Contato
+## Contact
 
 <a href="https://www.linkedin.com/in/rafaeltoccolini/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60">
@@ -12,9 +12,9 @@
 <img src="https://cdn.simpleicons.org/gmail" align="center" height="50" width="60">
 </a>
 
-## Tecnologias
+## Technologies
 
-### Linguagens
+### Languages
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" height="50" width="60">
@@ -43,7 +43,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" align="center" height="50" width="60">
 </div>
 
-### Banco de Dados
+### Databases
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" align="center" height="50" width="60">
